@@ -1,0 +1,2 @@
+# GachaSim
+Gacha Simulation Experiment
